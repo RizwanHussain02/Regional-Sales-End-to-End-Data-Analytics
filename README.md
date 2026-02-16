@@ -20,11 +20,11 @@ Deliverables include an interactive **Power BI report**, a structured **SQL anal
 **Executive Overview**
 ![Executive Overview](executive_overview.png)
 
-**Geographic & Customer Insights**
-![Geographic & Customer Insights](geographic_&_customer_insights.png)
-
 **Product Performance**
 ![Product Performance](products_performance.png)
+
+**Geographic & Customer Insights**
+![Geographic & Customer Insights](geographic_&_customer_insights.png)
 
 ### Power BI Report Demo
 ![Sales Report Demo](sales_report_demo.gif)
