@@ -8,11 +8,19 @@ Built an **end-to-end sales analytics** solution that transforms raw **regional 
 
 This project helps stakeholders answer **what is driving revenue and profit** across:
 - **Regions**
+- **States**
 - **Customers**
 - **Products**
+- **Channels**
 - **Time periods**
 
-Deliverables include an interactive **Power BI report**, a structured **SQL analysis script**, a full **EDA notebook**, and a presentation for **decision-making**.
+### Executive Impact
+
+**This project delivers:**
+- Interactive Power BI dashboards
+- SQL-based KPI calculations and aggregation logic
+- Structured data preparation pipeline (Python)
+- Business-ready presentation for decision-makers
 
 ---
 
