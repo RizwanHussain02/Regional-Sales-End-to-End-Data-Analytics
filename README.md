@@ -26,13 +26,13 @@ This project helps stakeholders answer **what is driving revenue and profit** ac
 
 ## Demo & Dashboard Preview
 **Executive Overview**
-![Executive Overview](executive_overview.png)
+![Executive Overview](executive_overview.jpg)
 
 **Product Performance**
-![Product Performance](products_performance.png)
+![Product Performance](products_performance.jpg)
 
 **Geographic & Customer Insights**
-![Geographic & Customer Insights](geographic_&_customer_insights.png)
+![Geographic & Customer Insights](geographic_&_customer_insights.jpg)
 
 ### Power BI Report Demo
 ![Sales Report Demo](sales_report_demo.gif)
